@@ -1,0 +1,14 @@
+certifi==2024.2.2
+charset-normalizer==3.3.2
+EbookLib==0.18
+future==1.0.0
+idna==3.6
+lxml==5.1.0
+oauthlib==3.2.2
+PyTumblr==0.1.2
+PyYAML==6.0.1
+requests==2.31.0
+requests-oauthlib==2.0.0
+six==1.16.0
+tqdm==4.66.2
+urllib3==2.2.1
